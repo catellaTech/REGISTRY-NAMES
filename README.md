@@ -27,6 +27,8 @@ $ forge install
 - Solidity
 - Foundry
 
+> Note🚨: We started this project a few months back, just for some foundry practice and to get the hang of basic testing features.
+
 <br>
 <br>
 
